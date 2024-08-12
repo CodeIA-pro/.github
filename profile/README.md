@@ -25,7 +25,7 @@ This project was initiated in response to three main issues:
 - **Gemini Integration** The Gemini AI model communicates with the business logic through asynchronous Lambda functions, using queues to manage the load.
 - **Storage** MongoDB is used to store the generated results, while S3 is used to store the documentation.
 
-# Credentials to Test the Platform
+### Credentials to Test the Platform
 
 Use the following credentials to access the platform and perform tests. This account already has integrated projects that you can explore to see the platform's capabilities:
 
