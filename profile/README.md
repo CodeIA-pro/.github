@@ -17,7 +17,7 @@ This project was initiated in response to three main issues:
 
 ### Project Architecture
 **Architecture Diagram**
-![Architecture Diagram](https://camo.githubusercontent.com/db9a4fc9f44fae42766c2791537f9e286ffdcb71cbbffac0198701bdfc426374/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6669722d646174616170702d63363034332e61707073706f742e636f6d2f6f2f4449414752414d412e706e673f616c743d6d6564696126746f6b656e3d38613763653732312d663265342d346638652d393565332d363735386163333232356437)
+![Architecture Diagram](https://firebasestorage.googleapis.com/v0/b/fir-dataapp-c6043.appspot.com/o/DIAGRAMA2.png?alt=media&token=2b1d1fbc-7a0c-4429-8df4-0a77f9242572)
 
 **Technical Description**
 - **Presentation** The front-end is deployed in an S3 bucket and accessed through a web browser.
