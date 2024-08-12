@@ -25,6 +25,14 @@ This project was initiated in response to three main issues:
 - **Gemini Integration** The Gemini AI model communicates with the business logic through asynchronous Lambda functions, using queues to manage the load.
 - **Storage** MongoDB is used to store the generated results, while S3 is used to store the documentation.
 
+# Credentials to Test the Platform
+
+Use the following credentials to access the platform and perform tests. This account already has integrated projects that you can explore to see the platform's capabilities:
+
+- **Email:** test@test.com
+- **Password:** Gato123
+
+> **Note:** This is a test account. Please do not activate the two-factor authentication (2FA) option or change the password. If you encounter any issues with the platform, please contact `support@codeia.pro`.
 
 ### Deployment
 The deployment of both the web application and the backend services is fully automated through **GitHub Actions**, ensuring a seamless and continuous integration and deployment (CI/CD) process. This automation minimizes manual intervention, reduces the risk of errors, and accelerates the deployment process.
