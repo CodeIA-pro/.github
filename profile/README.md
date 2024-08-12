@@ -9,4 +9,19 @@ This project was initiated in response to three main issues:
 2. **Perception of Documentation**: Documentation is frequently viewed as a non-priority task, leading to its neglect within organizations.
 3. **Organizational Culture**: Many organizations rely solely on developers' tacit knowledge without promoting the creation of technical documentation. This is risky as any developer might leave the project at any time.
 
+### Project Objectives
+- **Automate documentation generation** to minimize manual intervention.
+- **Reduce maintenance and update time** in software projects.
+- **Improve the quality and consistency of available documentation** at every project stage.
+- **Accelerate project understanding** for new developers and architects.
+
+### Project Architecture
+**Architecture Diagram**
+
+**Technical Description**
+- **Presentation** The front-end is deployed in an S3 bucket and accessed through a web browser.
+- **Business Logic** Uses Lambda functions, API Gateway, and a load balancer to handle requests and process data.
+- **Accelerate project understanding** for new developers and architects.
+
+
 By automating the documentation process, this project aims to improve the understanding and maintenance of APIs, thereby facilitating better project management and developer onboarding.
